@@ -1,1 +1,1 @@
-# ![Node/Express/Mongoose Example App](project-logo.png)
+# ![Node/Express/Mongoose Example App]

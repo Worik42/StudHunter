@@ -7,10 +7,6 @@
     "start": "node ./app.js",
     "dev": "nodemon ./app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git + git@github.com:Worik42/StudHunter.git"
-  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.15.0",

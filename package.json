@@ -5,11 +5,11 @@
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js",
-    "dev": "nodemon ./app.js",
+    "dev": "nodemon ./app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Worik42/StudHunter.git"
+    "url": "git + git@github.com:Worik42/StudHunter.git"
   },
   "license": "ISC",
   "dependencies": {
